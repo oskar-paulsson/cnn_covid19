@@ -4,6 +4,8 @@ This repository copies a model used originally for classifying spectra containin
 blood samples from covid-patients (free, confirmed and suspected).
 The original report along with the model was published here: https://doi.org/10.1038/s41598-019-38482-1
 
+**Below follows a summary of the methods herein used and of what each notebook contains**
+
 ### 10 fold stratified train-test split
 I used a 10-fold startified train-test split method on each training iteration and used the average evaluation accuracy and loss on the test-data as a reference for the perfomance
 of each model. One such 10-fold iteration of training and validation was then repeated 10 times to further minimize the effect of stochasticity.
