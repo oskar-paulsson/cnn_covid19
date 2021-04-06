@@ -14,7 +14,7 @@ the complexity of the solution-space each model is trained 10 times and the aver
 be expected to perform.
 
 #### Results of transfer training
-Overall, the performance of these models were bad and barely perform better than random guessing.
+Overall, the performance of these models was barely better than random guessing.
 
 | # blocks fixed | 17%   | 33%   | 50%   | 63%   |
 |----------------|-------|-------|-------|-------|
