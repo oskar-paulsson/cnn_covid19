@@ -13,7 +13,7 @@ In this notebook I import the best weights from the original work and employ tra
 the complexity of the solution-space each model is trained 10 times and the average evaluation accuracy over all attempts is then used as a measure of how well the model can 
 be expected to perform.
 
-#### Results
+#### Results of transfer training
 Overall, the performance of these models were bad and barely perform better than random guessing.
 
 | # blocks fixed | 17%   | 33%   | 50%   | 63%   |
